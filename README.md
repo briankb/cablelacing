@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+Terms
+- lacing
+- looms
 
-You can use the [editor on GitHub](https://github.com/briankb/cablelacing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+History
+- NASA, Telecom, Server Rooms
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Websites
+- https://en.wikipedia.org/wiki/Cable_lacing
+- http://www.dairiki.org/hammond/cable-lacing-howto/
+- http://makezine.com/2009/07/28/lost-knowledge-cable-lacing/
 
-### Markdown
+Videos
+- 3min Quick Demo Lacing Large Cables to Top of Server Racks http://www.youtube.com/watch?v=7CVvggAKBkk
+- 4min Aircraft builder shows a quick running lace on a custom cable assembly https://www.youtube.com/watch?v=oBG30s3PUKw
+- 3min Demo of basic wire lacing on CNC cable run https://www.youtube.com/watch?v=BSqfchqx1c8
+- 3min Chicago Stitch https://www.youtube.com/watch?v=7wQ7MC04_5g
+- 3min Kansas City Stitch https://www.youtube.com/watch?v=aiO-rNyVngU
+- 1min H Stitch https://www.youtube.com/watch?v=d5sbY9aDlxI
+- 5min Using Cable Lacing (sewing) in a Custom PC Build https://www.youtube.com/watch?v=La6LbgnZJco
+- 38min Long and detailed examples of running cable lacing https://www.youtube.com/watch?v=CERS4TT4uZY
+- 1min Quick example of 1:1 replacement using lacing loop instead of a zip tie on a cable bundle https://www.youtube.com/watch?v=Hsid71hFMNQ
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tools of the Trade
+- No Stretch Nylon (Michael's or any craft store)
+- Lacing Tape (http://www.aircraftspruce.com/catalog/elpages/BreydenLacingTapes.php?clickkey=3874)
+- Nylon string with Wax coating
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/briankb/cablelacing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Knots Used with Cable Lacing
+- Clove Hitch (start or running)
+- Slip Knot (start)
+- Chicago Stitch (keeping a tight bundle of cables)
+- Kansas City Stitch (tying to a rung)
+- H Stitch
