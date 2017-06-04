@@ -3,7 +3,10 @@ Terms
 - looms
 
 History
-- NASA, Telecom, Server Rooms
+- Telecommunication
+- [Navy](http://www.rfcafe.com/references/electrical/NEETS-Modules/NEETS-Module-04-2-41-2-53.htm)
+- [NASA chapter 9 of NASA-STD-8739.4](https://web.archive.org/web/20090712020615/http://workmanship.nasa.gov/lib/insp/2%20books/frameset.html)
+- Aerospace
 
 Websites
 - [Cable Lacing Wikipedia](https://en.wikipedia.org/wiki/Cable_lacing)
@@ -32,3 +35,6 @@ Knots Used with Cable Lacing
 - Chicago Stitch (keeping a tight bundle of cables)
 - Kansas City Stitch (tying to a rung)
 - H Stitch
+- Running lockstitches using figure eight knot
+- continuous lacing via marline hitch
+- 
