@@ -6,9 +6,9 @@ History
 - NASA, Telecom, Server Rooms
 
 Websites
-- (https://en.wikipedia.org/wiki/Cable_lacing)
-- (http://www.dairiki.org/hammond/cable-lacing-howto/)
-- (http://makezine.com/2009/07/28/lost-knowledge-cable-lacing/)
+- [Cable Lacing Wikipedia](https://en.wikipedia.org/wiki/Cable_lacing)
+- [How to Lace CAble Harnesses](http://www.dairiki.org/hammond/cable-lacing-howto/)
+- [Make Zine - Lost Knowledge Cable Lacing](http://makezine.com/2009/07/28/lost-knowledge-cable-lacing/)
 
 Videos
 - 3min [Quick Demo Lacing Large Cables to Top of Server Racks](http://www.youtube.com/watch?v=7CVvggAKBkk)
@@ -23,7 +23,7 @@ Videos
 
 Tools of the Trade
 - No Stretch Nylon (Michael's or any craft store)
-- Lacing Tape (http://www.aircraftspruce.com/catalog/elpages/BreydenLacingTapes.php?clickkey=3874)
+- [Lacing Tape](http://www.aircraftspruce.com/catalog/elpages/BreydenLacingTapes.php?clickkey=3874)
 - Nylon string with Wax coating
 
 Knots Used with Cable Lacing
