@@ -1,4 +1,4 @@
-Terms
+### Terms
 - cable lacing
 - looms
 - cable sewing
@@ -9,10 +9,12 @@ Terms
 - [NASA chapter 9 of NASA-STD-8739.4](https://web.archive.org/web/20090712020615/http://workmanship.nasa.gov/lib/insp/2%20books/frameset.html)
 - Aerospace
 
-### Websites
+### Reference and Articles
 - [Cable Lacing Wikipedia](https://en.wikipedia.org/wiki/Cable_lacing)
-- [How to Lace CAble Harnesses](http://www.dairiki.org/hammond/cable-lacing-howto/)
+- [Cable Lacing: A Lost Art](http://blog.electriduct.com/cable-lacing-a-lost-art/)
+- [How to Lace Cable Harnesses](http://www.dairiki.org/hammond/cable-lacing-howto/)
 - [Make Zine - Lost Knowledge Cable Lacing](http://makezine.com/2009/07/28/lost-knowledge-cable-lacing/)
+- [Different Kinds of Cable Lacing Bars for Cable Management](http://www.fiber-optic-cable-sale.com/different-kinds-cable-lacing-bars.html)
 
 ### Tutorials
 - [Lacing a Double Layer PC Power Cable](https://themodzoo.com/forum/index.php?/topic/990-cable-lacing-tutorial-aka-cable-stitching-cable-sewing/)
@@ -33,6 +35,8 @@ Terms
 - No Stretch Nylon (Michael's or any craft store)
 - [Lacing Tape](http://www.aircraftspruce.com/catalog/elpages/BreydenLacingTapes.php?clickkey=3874)
 - Nylon string with Wax coating
+- Lacing Loom Hook / Cable Lacing Needle
+- [Cable Lacing Bar](http://www.fiber-optic-cable-sale.com/different-kinds-cable-lacing-bars.html)
 
 ### Knots Used with Cable Lacing
 - Clove Hitch (start or running)
@@ -43,6 +47,7 @@ Terms
 - Running lockstitches using figure eight knot
 - continuous lacing via marline hitch
 
-### Books
+### Books & PDF's
 - [Electronic Installation Practices Manual](https://maritime.org/doc/cabling/index.htm)
-- - [PDF Version](http://simpte.ch/ebooks/NAVSHIPS%20900171%20Electronic%20Installation%20Practices%20Manual%20-%20Ch%209%20(cabling)%20%5Bwebsite%20capture%5D%20(1952)%20WW.pdf)
+  - [PDF Version](http://simpte.ch/ebooks/NAVSHIPS%20900171%20Electronic%20Installation%20Practices%20Manual%20-%20Ch%209%20(cabling)%20%5Bwebsite%20capture%5D%20(1952)%20WW.pdf)
+- [Tessco Whitepaper on Cable Lacing](https://www.tessco.com/yts/resourcecenter/pdfs/clablelacing-FAQ.pdf)
