@@ -51,3 +51,5 @@
 - [Electronic Installation Practices Manual](https://maritime.org/doc/cabling/index.htm)
   - [PDF Version](http://simpte.ch/ebooks/NAVSHIPS%20900171%20Electronic%20Installation%20Practices%20Manual%20-%20Ch%209%20(cabling)%20%5Bwebsite%20capture%5D%20(1952)%20WW.pdf)
 - [Tessco Whitepaper on Cable Lacing](https://www.tessco.com/yts/resourcecenter/pdfs/clablelacing-FAQ.pdf)
+- [TechLace Lacing Tape Buying Guide](http://cdn.techflex.com/assets/pdfs/specification-sheets/lacing-tape.pdf)
+- [TechLace Single Page How To](http://cdn.techflex.com/assets/pdfs/how-to/lace.pdf)
