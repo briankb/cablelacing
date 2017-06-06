@@ -1,3 +1,6 @@
+## Work in Progress
+##### this page is updated as I have time or find something new to share
+
 ### Terms
 - cable lacing
 - looms
