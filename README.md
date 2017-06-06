@@ -12,6 +12,9 @@
 - [NASA chapter 9 of NASA-STD-8739.4](https://web.archive.org/web/20090712020615/http://workmanship.nasa.gov/lib/insp/2%20books/frameset.html)
 - Aerospace
 
+### Blog Posts
+- [Fiber Optic Cable Stitching](http://www.tranquilitycomputers.com/fiber-optic-cable-stitching/)
+
 ### Reference and Articles
 - [Cable Lacing Wikipedia](https://en.wikipedia.org/wiki/Cable_lacing)
 - [Cable Lacing: A Lost Art](http://blog.electriduct.com/cable-lacing-a-lost-art/)
