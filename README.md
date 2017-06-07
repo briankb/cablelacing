@@ -26,6 +26,7 @@
 - [Lacing a Double Layer PC Power Cable](https://themodzoo.com/forum/index.php?/topic/990-cable-lacing-tutorial-aka-cable-stitching-cable-sewing/)
 
 ### Videos
+- 12min [How To Hand Lace Your Cables Video Card Cables](https://www.youtube.com/watch?v=oP8WxllE9UM)
 - 3min [Quick Demo Lacing Large Cables to Top of Server Racks](http://www.youtube.com/watch?v=7CVvggAKBkk)
 - 4min [Aircraft builder shows a quick running lace on a custom cable assembly](https://www.youtube.com/watch?v=oBG30s3PUKw)
 - 3min [Demo of basic wire lacing on CNC cable run](https://www.youtube.com/watch?v=BSqfchqx1c8)
